@@ -1,0 +1,19 @@
+.wrap-thumb-item {
+    padding: 8px 5px;
+    border: 1px solid #cfcfcf;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 60px;
+  max-height: 68px;
+  position: relative;
+}
+.svg-check{
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+}
+.svg-check path{
+  fill: greenyellow;
+}
